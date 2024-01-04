@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashwin-Developer
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on working professionals
 
 
